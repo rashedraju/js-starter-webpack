@@ -1,0 +1,10 @@
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+$white: white;
+$black: black;
+
+.wellcome {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%);
+}
